@@ -7,22 +7,13 @@
       "regexp": "[A-Z][a-z]{5,10}"
     },
     "description": {
-      "loremSentences": { "minLength": 100, "maxLength": 200 }
+      "loremSentences": { "minLength": 200, "maxLength": 500 }
     },
     "startDate": {
       "dateTime": {
         "min": "2021-01-01T00:00:00Z",
         "max": "2022-12-31T23:59:59Z"
       }
-    },
-    "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
-    },
-    "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
     },
     "target": {
       "int": {
