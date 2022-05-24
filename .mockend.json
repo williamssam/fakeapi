@@ -1,6 +1,6 @@
 {
-  "User": {
-    "name": {
+  "Surveys": {
+    "projectName": {
       "string": {}
     },
     "avatarUrl": {
@@ -24,7 +24,7 @@
         "max": 100
       }
     },
-    "isPublic": {
+    "isDownloaded": {
       "boolean": {}
     }
   }
