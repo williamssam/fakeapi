@@ -43,7 +43,7 @@
       "hasMany": "Sruvey"
     }
   },
-  "Surveys": {
+  "Survey": {
     "title": {
       "string": {}
     },
