@@ -38,20 +38,6 @@
     },
     "isDownloaded": {
       "boolean": {}
-    },
-    "surveys": {
-      "hasMany": "Sruvey"
-    }
-  },
-  "Survey": {
-    "title": {
-      "string": {}
-    },
-    "dueDate": {
-      "dateTime": {
-        "min": "2021-01-01T00:00:00Z",
-        "max": "2022-12-31T23:59:59Z"
-      }
     }
   }
 }
